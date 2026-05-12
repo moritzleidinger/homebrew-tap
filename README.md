@@ -34,7 +34,7 @@ brew install --cask <cask>
 
 ## Software
 
-### Casks
+### Available Casks
 
 - [`Seaquel`](https://seaquel.app/): Explore, query, and visualize your databases — all in one app.
 

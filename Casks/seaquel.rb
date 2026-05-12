@@ -15,6 +15,8 @@ cask "seaquel" do
     strategy :github_latest
   end
 
+	auto_updates true
+
   app "Seaquel.app"
 
   zap trash: [
