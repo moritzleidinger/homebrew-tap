@@ -1,9 +1,9 @@
 cask "seaquel" do
-  version "2026.4.4"
+  version "2026.4.8"
 
   arch arm: "aarch64", intel: "x64"
-  sha256 arm: "0e30ee9c5c4bbf5ee9a063e87183c307e60661530fae063b28499443e75318f0",
-         intel: "c4ff2c3d3dd8015bbe80fa337f3553e8c5252bd15119b286d02618c9bc2bb659"
+  sha256 arm: "b73e88230fd2ba71bcbd6039c8fef11ade60e38533c81f98b469ce8b53c43ff4",
+         intel: "a706f660481c336884a2571f6c637a26df93b90c2bbc6a885d95a9db83afc99c"
 
   url "https://github.com/webstonehq/seaquel/releases/download/v#{version}/Seaquel_#{version}_#{arch}.dmg"
   name "Seaquel"
